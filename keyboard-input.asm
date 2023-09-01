@@ -1,11 +1,11 @@
-;##################################################;
-; Admission of great shame:                        ;     
-; This is broken, it gets stuck in an infinite loop;
-; but only on some characters, i think it might be ;
-; beause of something with odd ASCII decimal values;
-; bit in truth i have no idea why it does this.    ;
-; if you can can fix it, send a pull request and   ;
-; end my suffering.                                ;
+;###################################################;
+; Admission of great shame:                         ;     
+; This is broken, it gets stuck in an infinite loop ;
+; but only on some characters, i think it might be  ;
+; beause of something with odd ASCII decimal values ;
+; but in truth i have no idea why it does this.     ;
+; if you can can fix it, send a pull request and    ;
+; end my suffering.                                 ;
 ;###################################################;
 
 
