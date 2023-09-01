@@ -15,7 +15,7 @@ exit:
 jmp $
 
 string:
-  db "Hello, World!", 0           ; define bytes in al to the string "Hello, World!" and null terminate
+  db "Hello, World!", 0           ; define bytes in memory and point to it with label "string"
 
 times 510-($-$$) db 0
 dw 0xaa55
